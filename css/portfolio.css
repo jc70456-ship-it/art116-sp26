@@ -1,0 +1,21 @@
+/* portfolio.css */
+
+h1
+{
+    font-family: 'Original-surfer', sans-serif;
+    color: rgb(122, 45, 55);
+}
+
+#popstar
+{
+    width: 230px;
+    height: 275px;
+    border: 4px solid rgb(122, 45, 55);
+    float: left;
+}
+
+p{
+    font-family: 'Tai-heritage-pro', sans-serif;
+    font-size: 20px;
+   color:rgb(184, 100, 79);
+}
