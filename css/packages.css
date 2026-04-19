@@ -1,0 +1,81 @@
+/* packages.css */
+
+h1
+{
+font-family: Original-surfer, sans-serif;
+color: rgb(122, 45, 55);
+}
+
+/* Digital Art*/
+
+.column1
+{
+    flex: 55%;
+    padding: 10px;
+    justify-content: right;
+}
+
+.row1
+{
+  display: flex;
+}
+
+#lineart
+{
+border: 4px solid rgb(122, 45, 55);
+width: 340px;
+height: 300px;
+}
+
+#colorized
+{
+border: 4px solid rgb(122, 45, 55);
+width: 340px;
+height: 300px;
+}
+
+#renderized
+{
+border: 4px solid rgb(122, 45, 55);
+width: 390px;
+height: 300px;
+}
+
+h2
+{
+  font-family: 'AlbertSans';
+  color: rgb(122, 45, 55);
+}
+
+p
+{
+  font-family: 'Tai-heritage-pro';
+  color: rgb(184, 100, 79);
+}
+/*Edited photos*/
+
+.column2
+{
+    flex: 55%;
+    padding: 10px;
+    justify-content: center;
+}
+
+.row2
+{
+  display: flex; 
+}
+
+#painting
+{
+   border: 4px solid rgb(122, 45, 55);
+   width: 340px;
+   height: 425px;
+}
+
+#photoshop
+{
+    border: 4px solid rgb(122, 45, 55);
+    width: 340px;
+    height: 425px;
+}
